@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVkafSrPTl33Po1wB/s1yYS9v6jQct9OQWyWd/Ai3qAslaEchHhq9f6cHI/051KplAVCbN88EUoj5ZEB4xPQWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Drone\\DroneExploracao\\DroneExploracao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gui38\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gui38\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gui38\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gui38\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
